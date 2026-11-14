@@ -1,0 +1,93 @@
+{
+  "project": "4060_moneylab_shorts",
+  "episode": "01_health_insurance_defense_v2_high_retention",
+  "meta": {
+    "title": "🚨 [긴급 특보] 자식 밑에 계신 부모님들! 이번 달 건보료 통장 당장 열어보세요! (3년 619만원 방어법)",
+    "duration_seconds": 38,
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "fps": 30,
+    "pacing": "fast_dynamic_retention_style",
+    "audio": {
+      "tts_voice": "high_tone_urgent_korean_news_host",
+      "tts_pitch": "high_energetic",
+      "tts_speed": 1.25,
+      "bgm_style": "fast_tension_urgency_beat",
+      "bgm_ducking_db": -24
+    }
+  },
+  "scenes": [
+    {
+      "cut": 1,
+      "time": "00:00-00:03",
+      "headline_top": "🚨 긴급! 이번 달 통장 꼭 확인하세요!",
+      "headline_color": "#FF2A2A",
+      "narration": "잠깐만요! 자식 밑에 계신 부모님들, 지금 당장 통장 확인해 보세요!",
+      "visual_direction": "강렬한 레드 플래시 줌인 + 스마트폰 뱅킹 통장 잔고 마이너스 클로즈업 + 대형 사이렌",
+      "sfx": "siren_emergency_whoosh"
+    },
+    {
+      "cut": 2,
+      "time": "00:03-00:07",
+      "headline_top": "가만히 있다가 매달 25만원 날아옵니다!",
+      "headline_color": "#FFE100",
+      "narration": "가만히 계시다가 다음 달부터 건보료 25만 원 고지서 그냥 두들겨 맞습니다!",
+      "visual_direction": "실제 건보공단 지로용지 날아와 화면 타격 + 250,000원 붉은색 스탬프 쾅 찍힘",
+      "sfx": "heavy_metal_stamp_thud"
+    },
+    {
+      "cut": 3,
+      "time": "00:07-00:12",
+      "headline_top": "전산 오류 아닙니다! 소득 2,000만원 넘으면 박탈!",
+      "headline_color": "#FFFFFF",
+      "narration": "전산 오류 아닙니다. 은퇴하고 연금 조금 늘었다고, 2,000만 원 그물망에 걸려 자격이 강제로 짤린 건데요.",
+      "visual_direction": "2,000만 원 숫자 전광판 카운팅 + '피부양자 자격 박탈' 경고창 팝업",
+      "sfx": "digital_alert_beep"
+    },
+    {
+      "cut": 4,
+      "time": "00:12-00:17",
+      "headline_top": "월급 0원인데 집 한 채 있다고 300만원 과세?!",
+      "headline_color": "#FF3B30",
+      "narration": "월급 한 푼 안 나오는데 살고 있는 집 한 채 있다고 매년 생돈 300만 원을 뜯어가니, 미치고 팔짝 뛸 노릇이죠!",
+      "visual_direction": "한숨 쉬며 머리 싸매는 60대 아버지 실사 클로즈업 + 아파트 단지 위로 세금 번개 치는 연출",
+      "sfx": "thunder_crack"
+    },
+    {
+      "cut": 5,
+      "time": "00:17-00:23",
+      "headline_top": "💡 절대 가만있지 마세요! [3년 우산 제도]!",
+      "headline_color": "#00E676",
+      "narration": "하지만 절대 가만히 계시면 안 됩니다! 국가가 아는 사람만 쓰라고 숨겨둔 3년 보호 우산이 있습니다!",
+      "visual_direction": "어두운 화면 싹 걷히며 거대한 초록색 방패 우산 팡 펼쳐짐 + 골드 스파크",
+      "sfx": "shield_powerup_whoosh"
+    },
+    {
+      "cut": 6,
+      "time": "00:23-00:28",
+      "headline_top": "월 11만원으로 방어! 총 619만원 세이브!",
+      "headline_color": "#00E676",
+      "narration": "'임의계속가입' 딱 한 장 신청하면, 월 25만 원이 11만 원으로 뚝 떨어집니다. 3년 동안 619만 원을 통째로 지킵니다!",
+      "visual_direction": "25만 원 숫자가 11만 원으로 슬라이싱 컷 + '총 6,190,000원 절약' 대왕 황금 뱃지 회전 팝업",
+      "sfx": "cash_register_jackpot"
+    },
+    {
+      "cut": 7,
+      "time": "00:28-00:33",
+      "headline_top": "⏳ 골든타임 딱 2달! 지나면 619만원 공중분해!",
+      "headline_color": "#FFE100",
+      "narration": "핵심은 시간입니다! 첫 고지서 날아오고 딱 2달 지나면 영원히 신청 못 하니, 신분증 들고 공단 지사로 당장 뛰어가세요!",
+      "visual_direction": "시계 초침 급박하게 도는 카운트다운 타이머 + 공단 지사 위치 지도 핑 마커 줌인",
+      "sfx": "fast_ticking_bomb_timer"
+    },
+    {
+      "cut": 8,
+      "time": "00:33-00:38",
+      "headline_top": "주변에 카톡 공유! 내 돈 지키려면 [구독]!",
+      "headline_color": "#00E676",
+      "narration": "주변 은퇴한 친구분들께 지금 카톡으로 바로 쏴주시고, 떼인 세금 막으려면 구독 꼭 눌러두세요!",
+      "visual_direction": "카카오톡 노란 공유 아이콘 튀어나옴 + 빨간 유튜브 구독 버튼 클릭 모션 + 종소리",
+      "sfx": "bell_notification_pop"
+    }
+  ]
+}
