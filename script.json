@@ -1,0 +1,72 @@
+{
+  "project": "4060_moneylab_shorts",
+  "episode": "01_health_insurance_defense",
+  "meta": {
+    "title": "[건보공단 긴급] 직장인 자녀 밑에 있었는데 건보료 25만원 날아왔다면? 3년 방어법",
+    "duration_seconds": 38,
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "fps": 30,
+    "audio": {
+      "tts_voice": "40s_male_calm_korean",
+      "tts_speed": 1.1,
+      "bgm_ducking_db": -22
+    }
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "time": "00:00-00:04",
+      "headline_top": "직장인 자녀 밑에 있었는데 건보료 25만원?!",
+      "headline_color": "#FFE100",
+      "narration": "직장 다니는 자식한테 미안하게, 갑자기 건보료 25만 원 고지서 날아오셨나요?",
+      "visual_direction": "화이트 플래시 + 빨간 테두리 건보료 고지서 줌인",
+      "sfx": "heavy_bass_drop"
+    },
+    {
+      "scene": 2,
+      "time": "00:05-00:12",
+      "headline_top": "전산 오류 아닙니다! 소득 2,000만원 넘으면 탈락",
+      "headline_color": "#FFFFFF",
+      "narration": "전산 오류 아닙니다. 은퇴하고 연금 조금 늘었다고, 2,000만 원 그물망에 걸려 자격이 자동으로 떨어진 건데요.",
+      "visual_direction": "연간 합산소득 2000만원 낚시 그물망 그래픽 + 연금 100% 합산 텍스트 점등",
+      "sfx": "camera_shutter"
+    },
+    {
+      "scene": 3,
+      "time": "00:13-00:19",
+      "headline_top": "월급도 없는데 집 한 채 있다고 매달 25만원?!",
+      "headline_color": "#FFFFFF",
+      "narration": "월급은 끊겼는데 살고 있는 집 한 채 때문에 매달 수십만 원씩 뜯기면, 억울해서 잠도 안 오시죠.",
+      "visual_direction": "비바람 먹구름 + 아파트/자동차 아이콘에 점수 매겨지는 모션",
+      "sfx": "rain_ambience"
+    },
+    {
+      "scene": 4,
+      "time": "00:20-00:29",
+      "headline_top": "[당당한 내 권리] 3년 보호 우산! 월 11만원으로 방어!",
+      "headline_color": "#00E676",
+      "narration": "가만히 계시지 마시고 '임의계속가입' 우산을 쓰세요! 합법적으로 3년간 619만 원을 지켜냅니다.",
+      "visual_direction": "먹구름 걷히며 거대 초록 우산 펼쳐짐 + 월 112,000원 강조 + 619만원 절약 뱃지",
+      "sfx": "cash_register_ding"
+    },
+    {
+      "scene": 5,
+      "time": "00:30-00:34",
+      "headline_top": "첫 고지서 받고 딱 2달 안! 신분증 들고 공단 지사로!",
+      "headline_color": "#FFE100",
+      "narration": "첫 고지서 받고 딱 2달 안입니다. 신분증 들고 가까운 공단 지사 찾아가시면 5분 만에 끝납니다.",
+      "visual_direction": "시계 카운트다운 타이머 + 공단 지사 위치 아이콘 줌인",
+      "sfx": "clock_ticking"
+    },
+    {
+      "scene": 6,
+      "time": "00:35-00:38",
+      "headline_top": "주변 친구에게 [카톡 공유]! 세금 폭탄 막으려면 [구독]!",
+      "headline_color": "#00E676",
+      "narration": "주변 은퇴한 친구들에게 카톡으로 공유해 주시고, 매주 고지서 막아드릴 테니 지금 구독 눌러두세요!",
+      "visual_direction": "40대 연구원 캐릭터 구독 버튼 가리킴 + 카톡 공유 아이콘 바운스",
+      "sfx": "button_click_pop"
+    }
+  ]
+}
